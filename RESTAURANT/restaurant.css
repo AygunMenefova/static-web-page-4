@@ -1,0 +1,674 @@
+.container {
+    width: 1600px;
+    margin: auto;
+}
+
+.header-bg-img {
+    background: url(/RESTAURANT/img/bg\ banner.jpg)center/cover;
+    width: 1600px;
+    height: 950px;
+}
+
+#head {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0 0 0;
+    margin: 0 210px 0 210px;
+
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+.navbar a {
+    font-size: 16px;
+    color: #fff;
+    /* font-family: "Proxima Nova A"; */
+}
+
+.logo h1 {
+    color: #fff;
+    font-size: 31px;
+    line-height: 32px;
+    /* font-family: "Proxima Nova T"; */
+}
+
+.center h1 {
+    font-size: 65px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: "Proxima Nova T";
+    text-align: center;
+    margin: 370px 0 30px 0;
+}
+
+.center h2 {
+    font-size: 18px;
+    line-height: 32px;
+    color: #fff;
+    font-family: "Proxima Nova A";
+    text-align: center;
+}
+
+.container1 {
+    background-color: #962323;
+    width: 1600px;
+    margin: auto;
+}
+
+#susi {
+    padding: 100px 0 100px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.image img {
+    width: 400px;
+    height: 400px;
+    margin: 0 0 0 200px;
+
+}
+
+.text {
+    padding: 80px 150px 0 0;
+}
+
+.text h1 {
+    font-size: 56px;
+    line-height: 32px;
+    color: #fff;
+    font-family: "Forever Brush Script";
+    text-align: center;
+    padding: 0 0 25px 0;
+
+
+}
+
+.text h2 {
+    padding: 30px 0 0 0;
+    font-size: 18px;
+    line-height: 32px;
+    color: #fff;
+    font-family: "Proxima Nova A";
+    text-align: center;
+    width: 490px;
+}
+
+.container2 {
+    width: 1600px;
+    margin: auto;
+}
+
+.image1 {
+    background: url(/RESTAURANT/img/bg.jpg)center/cover;
+    width: 1600px;
+    height: 500px;
+}
+
+.text1 {
+    padding: 150px 0 0 0;
+}
+
+.text1 h1 {
+    font-size: 56px;
+    line-height: 32px;
+    color: #fff;
+    font-family: "Forever Brush Script";
+    text-align: center;
+    padding: 20px;
+
+}
+
+.text1 h2 {
+    padding: 30px 0 0 570px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #ffffff;
+    font-family: "Proxima Nova A";
+    text-align: center;
+    width: 450px;
+}
+
+.container3 {
+    width: 1600px;
+    margin: auto;
+    background: #f3f4f7;
+}
+
+
+.menu h1 {
+    font-size: 56px;
+    line-height: 32px;
+    color: #0b0c0d;
+    font-family: "Forever Brush Script";
+    text-align: center;
+    padding: 100px 0 20px 0;
+}
+
+
+.menu1 {
+    display: flex;
+    padding: 50px 0 0 150px;
+
+}
+
+.menu1 h2 {
+    font-size: 16px;
+    line-height: 32px;
+    color: #0b0c0d;
+    font-family: "Proxima Nova A";
+}
+
+.menu1 h3 {
+    /* color: #c8245e; */
+    font-size: 16px;
+    line-height: 32px;
+    color: #c8235d;
+    font-family: "Proxima Nova A";
+    margin: 0 0 0 50px;
+
+}
+
+.menu2 h1 {
+    opacity: 0.702;
+    font-size: 16px;
+    color: #0b0c0d;
+    font-family: "Proxima Nova A";
+    padding: 20px 0 0 150px;
+}
+
+#menu4 {
+    display: flex;
+}
+
+.menuu {
+    padding: 0 0 100px 100px;
+}
+
+.container4 {
+    width: 1600px;
+    margin: auto;
+}
+
+.picture {
+    display: flex;
+    overflow: hidden;
+
+}
+
+.container5 {
+    width: 1600px;
+    margin: auto;
+    background: #252529;
+}
+
+#boxx {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 200px 0 200px;
+    padding: 100px 0 100px 0;
+}
+
+#boxx h1 {
+    font-size: 26px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 400;
+    padding: 0 0 30px 0;
+    /* font-family: "Font Awesome 5 Brands"; */
+}
+
+#boxx h2 {
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.box4 i {
+    display: flex;
+    color: #c0235a;
+    margin: 0 20px 0 0;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.them {
+    display: flex;
+}
+
+.container6 {
+    width: 1600px;
+    margin: auto;
+    background: #16171b;
+}
+
+#footerr {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    margin: 0 200px 0 200px;
+
+}
+
+.footer5 {
+    display: flex;
+}
+
+#footerr h1 {
+    opacity: 0.502;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #8b8b8d;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.netw i {
+    opacity: 0.502;
+    font-size: 16px;
+    letter-spacing: 15px;
+    line-height: 24px;
+    color: #8b8b8d;
+    font-weight: 400;
+    /* font-family: "Roboto"; */
+}
+
+.fb i {
+    color: #ffffffff;
+    letter-spacing: 15px;
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    .logo h1 {
+        font-size: 25px;
+    }
+
+    .header-bg-img {
+        width: 90%;
+    }
+
+    #head {
+        flex-direction: column;
+        margin-left: 50px;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+
+    .center h1 {
+        font-size: 22px;
+        margin-top: 190px;
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .center h2 {
+        margin-left: 10px;
+        width: 90%;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    .logo h1 {
+        font-size: 25px;
+    }
+
+    .header-bg-img {
+        width: 90%;
+    }
+
+    #head {
+        flex-direction: column;
+        margin-left: 50px;
+    }
+
+    .navbar ul {
+        margin-left: -30px;
+        margin-top: 15px;
+    }
+
+    .center h1 {
+        font-size: 55px;
+        margin-top: 300px;
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .center h2 {
+        margin-left: 10px;
+        width: 90%;
+    }
+}
+
+@media (max-width:1500px) and (min-width:900px) {
+    .navbar ul {
+        margin-left: 170px;
+        margin-top: -22px !important;
+    }
+
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container1 {
+        width: 90%;
+        margin-left: -1px;
+    }
+
+    #susi {
+        flex-direction: column;
+    }
+
+    .image img {
+        margin-left: 15px;
+        width: 90%;
+
+    }
+
+    .text h1 {
+        width: 90%;
+        margin-left: 70px;
+        line-height: 50px;
+    }
+
+    .text h2 {
+        width: 90%;
+        margin-left: 70px;
+    }
+
+    .text hr {
+        width: 90%;
+        margin-left: 70px;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container1 {
+        width: 90%;
+        margin-left: -1px;
+    }
+
+    #susi {
+        flex-direction: column;
+    }
+
+    .image img {
+        margin-left: 15px;
+        width: 90%;
+
+    }
+
+    .text h1 {
+        width: 90%;
+        margin-left: 70px;
+        line-height: 50px;
+    }
+
+    .text h2 {
+        width: 90%;
+        margin-left: 70px;
+    }
+
+    .text hr {
+        width: 90%;
+        margin-left: 70px;
+    }
+}
+
+@media (max-width:1500px) and (min-width:1000px) {
+    .image img {
+        width: 400px;
+        margin-left: 70px;
+    }
+
+    .text h1 {
+        width: 500px;
+        margin-left: 450px;
+        margin-top: -450px;
+    }
+
+    .text h2 {
+        width: 300px;
+        margin-left: 550px;
+    }
+
+    .text hr {
+        width: 300px;
+        margin-left: 550px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container2 {
+        width: 90%;
+    }
+
+    .image1 {
+        width: 90%;
+    }
+
+    .text1 h1 {
+        line-height: 50px;
+        font-size: 50px;
+        margin-top: -100px;
+    }
+
+    .text1 h2 {
+        margin-left: -550px;
+        width: 90%;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container2 {
+        width: 90%;
+    }
+
+    .image1 {
+        width: 90%;
+    }
+
+    .text1 h1 {
+        line-height: 50px;
+        font-size: 50px;
+        margin-top: -30px;
+    }
+
+    .text1 h2 {
+        margin-left: -550px;
+        width: 90%;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container2 {
+        width: 90%;
+    }
+
+    .image1 {
+        width: 90%;
+    }
+
+    .text1 h1 {
+        line-height: 50px;
+        font-size: 50px;
+        margin-top: -100px;
+    }
+
+    .text1 h2 {
+        /* line-height: 50px;
+        font-size: 50px; */
+        margin-left: -550px;
+        width: 90%;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container3 {
+        width: 90%;
+        margin-left: -1px;
+    }
+
+    #menu4 {
+        width: 90%;
+        flex-direction: column;
+        margin-left: -100px;
+        align-items: center;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container3 {
+        width: 90%;
+        margin-left: -1px;
+    }
+
+    #menu4 {
+        width: 90%;
+        flex-direction: column;
+        margin-left: -100px;
+        align-items: center;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container4 {
+        width: 90%;
+    }
+    .picture{
+        width: 90%;
+        flex-direction: column;
+    }
+}
+@media (max-width:1500px) and (min-width:768px) {
+    .container4 {
+        width: 90%;
+    }
+    .picture{
+        width: 90%;
+        flex-direction: column;
+    } 
+}
+@media (min-width:300px) and (max-width:768px) {
+    .container5{
+        width: 90%;
+        margin-left: -1px;
+    }
+    #boxx{
+        width: 90%;
+        flex-direction: column;
+        margin-left: 15px;
+        align-items: center;
+    }
+    .box1{
+        margin-top: 60px;
+    }
+    .box2{
+        margin-top: 60px;
+    }
+    .box3{
+        margin-top: 60px;
+    }
+    .box4{
+        margin-top: 60px;
+    }
+}
+@media (max-width:1500px) and (min-width:768px) {
+    .container5{
+        width: 90%;
+        margin-left: -1px;
+    }
+    #boxx{
+        width: 90%;
+        flex-direction: column;
+        margin-left: 15px;
+        align-items: center;
+    }
+    .box1{
+        margin-top: 60px;
+    }
+    .box2{
+        margin-top: 60px;
+    }
+    .box3{
+        margin-top: 60px;
+    }
+    .box4{
+        margin-top: 60px;
+    }  
+}
+@media (max-width:1500px) and (min-width:900px) {
+    .container5{
+        width: 90% !important;
+        margin-left: -1px !important;
+    }
+    #boxx{
+        width: 90% !important;
+        flex-direction: row !important;
+        margin-left: 50px !important;
+        align-items: center !important;
+    } 
+    .box1{
+        margin-top:0;
+    }
+    .box2{
+        margin-top: 0;
+    }
+    .box3{
+        margin-top: 0;
+    }
+    .box4{
+        margin-top: 0;
+    }   
+
+}
+@media (min-width:300px) and (max-width:768px) {
+    .container6{
+        width: 90%;
+        margin-left: -1px;
+    }
+    #footerr{
+        width: 90%;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+}
+@media (max-width:1500px) and (min-width:768px) {
+    .container6{
+        width: 90%;
+        margin-left: -1px;
+    }
+    #footerr{
+        width: 90%;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+}
+@media (max-width:1500px) and (min-width:1250px) {
+    .container6{
+        width: 90%;
+        margin-left: -1px;
+    }
+    #footerr{
+        width: 90%;
+        flex-direction: row;
+        margin-left: 30px;
+    }
+}
